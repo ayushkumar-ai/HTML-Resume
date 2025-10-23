@@ -1,2 +1,2 @@
-# My Resume Webpage - only use HTML
+# My Resume Webpage - use HTML and some css
 ---
